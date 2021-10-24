@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a Systems Engineer, Mother, Gardener, Student Pilot, and trumpeteer
+- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, Investor, Gardener, and Student Pilot
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 
