@@ -3,6 +3,7 @@
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - 📫 How to reach me:
+
 <a href="https://discord.gg/jessenia#8793"><img align="left" alt="Jessenia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> 
 
 <a href="https://twitter.com/jessenia_intech"><img align="left" alt="Jessenia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
