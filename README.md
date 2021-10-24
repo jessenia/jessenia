@@ -5,7 +5,7 @@
 
 <b>Connect With Me</b> <br />
 
-<a href="https://discord.gg/jessenia#8793"><img align="left" alt="Jessenia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> 
+<a href="https://discord.gg/jessenia"><img align="left" alt="Jessenia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a> 
 
 <a href="https://twitter.com/jessenia_intech"><img align="left" alt="Jessenia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
