@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessenia
-- 👀 I’m interested in anything Systems and Systems Architecture related
-- 🌱 I’m currently learning everything Blockchain related, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
+- 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
+- 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - 📫 How to reach me on Twitter - @jessenia_intech
 
 <!---
