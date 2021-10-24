@@ -1,5 +1,5 @@
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia
+- 👋 Hi, I’m @jessenia, a Systems Engineer, Mother, Gardener, Student Pilot, and trumpeteer
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - 📫 How to reach me on Twitter: @jessenia_intech
