@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - 📫 How to reach me on Twitter: @jessenia_intech
 
+<b>My Github Stats</b> <br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=gotham" alt="jessenia" />
 
 <b>Want to support my goals? </b> <br />
 <a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
