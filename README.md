@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, Investor, Gardener, Trumpeteer, and Student Pilot
+- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, Investor, Gardener, Trumpeteer, Licensed Real Estate Agent and Appraiser in the State of Georgia, USA, and Student Pilot
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - My 2022 Goals are to learn Python, Go, refresh my Leetcode skills, and add 3-5 more projects to my personal portfolio 
