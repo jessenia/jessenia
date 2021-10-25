@@ -5,7 +5,7 @@
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
 - My 2022 Goals are to learn Python, Go, refresh my Leetcode skills, and add 3-5 more projects to my personal portfolio 
-- Fun fact: I never took Git serious once I started my professional career 10 years ago as a developer. Instead, I focused on churning out projects and fixing defects for my employers aka getting real world skills. While that's great! I feel sad I can not take those things with me to show to the world! After much thought, I have decided to dedicate the remaining of 2021 and all of 2022 to making this a space to be proud of!
+- Fun fact: I never took Git serious once I started my professional career 10 years ago as a developer. Instead, I focused on churning out projects and fixing things that broke in production for my employer aka getting real world skills. While that's great, I want to make it clear that in my opinion there's no winner in having experience through work experience versus personal projects. However, I felt bothered that I could not take the awesome things I worked on at my job with me to show to the world! I could only discuss them with those who asked. After much thought, I have decided to dedicate the remaining of 2021 and all of 2022 to making this a space to be proud of! I personally have too much going on between my profession, family life, businesses, and other passions to sustain this practice long term. But I'll try my best to make it a habbit.
 - 
 <b>Connect With Me</b> <br />
 
