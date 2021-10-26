@@ -11,7 +11,7 @@
 
 <b>Connect With Me</b> <br />
 
-<a href="https://medium.com/@jessenia.tech"><img align="left" alt="Jessenia's Medium" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/medium.svg" /></a> 
+<a href="https://medium.com/@jessenia.tech"><img align="left" alt="Jessenia's Medium" width="22px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
 <a href="https://twitter.com/jessenia_intech"><img align="left" alt="Jessenia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
