@@ -21,6 +21,16 @@
 
 <b>My Github Stats</b> <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=gotham" alt="jessenia" />
+ 
+ 📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 30 mins   █████████████████████▓░░░   87.18 % 
+JSX          52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+MDX          25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+```
+<!--END_SECTION:waka-->
 
 <b>Want to support my goals? </b> <br />
 <a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
