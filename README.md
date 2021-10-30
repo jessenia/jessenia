@@ -22,7 +22,7 @@
 <b>My Github Stats</b> <br />
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=gotham" alt="jessenia" />
+ <img src="https://github-readme-stats.vercel.app/api?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" />
 </p>
 
 <p align="left">
