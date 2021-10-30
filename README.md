@@ -22,6 +22,8 @@
 <b>My Github Stats</b> <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=gotham" alt="jessenia" />
  
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessenia&layout=compact)](https://github.com/jessenia/github-readme-stats)
 
 <b>Want to support my goals? </b> <br />
