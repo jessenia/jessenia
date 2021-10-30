@@ -20,13 +20,9 @@
 <br /> <br />
 
 <b>My Github Stats</b> <br />
-```md
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=gotham" alt="jessenia" />
- ```
  
-```md
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jessenia&layout=compact)](https://github.com/jessenia/github-readme-stats)
-```
 
 <b>Want to support my goals? </b> <br />
 <a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
