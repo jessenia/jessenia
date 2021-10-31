@@ -31,7 +31,7 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" /> 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" /> 
 </p>
 
 <b>Want to support my goals? </b> <br />
