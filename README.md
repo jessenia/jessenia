@@ -1,4 +1,5 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
+[![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, Investor, Gardener, Trumpeteer, Licensed Real Estate Agent and Appraiser in the State of Georgia, USA, and Student Pilot
