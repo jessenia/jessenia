@@ -34,7 +34,7 @@
 </p>
 
 <b>Want to support my goals? </b> <br />
-<a href="buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <!---
 jessenia/jessenia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
