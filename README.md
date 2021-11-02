@@ -31,10 +31,9 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessenia&layout=compact" alt="jessenia" /> 
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" /> 
 </p>
 
-[![jessenia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jessenia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Want to support my goals? </b> <br />
 <a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
