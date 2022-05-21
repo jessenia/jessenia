@@ -2,9 +2,9 @@
 [![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, Investor, Gardener, Trumpeteer, Licensed Real Estate Agent and Appraiser in the State of Georgia, USA, and Student Pilot
+- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, and Investor based out of Atlanta, GA
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
-- 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages including Portuguese and Twi
+- 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages (mainly Portuguese at the moment)
 - My 2022 Goals are to learn Solidity, Python, refresh my Leetcode skills, and add 3-5 more projects to my personal portfolio 
 
 <b>A Summary of My Github Page</b> <br />
