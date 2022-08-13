@@ -2,8 +2,8 @@
 [![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, and Investor based out of Atlanta, GA
-- 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
+- 👋 Hi, I’m @jessenia, a SRE/DevSecOps Engineer, Entreprenuer, and Investor based out of Atlanta, GA
+- 👀 I’m interested in anything Blockchain, Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages (mainly Portuguese at the moment)
 - My 2022 Goals are to join a Web3 company and get more hands on with Golang, Python, Solidity, and Rust. 
 
