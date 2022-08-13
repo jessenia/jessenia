@@ -5,7 +5,7 @@
 - 👋 Hi, I’m @jessenia, a Systems Engineer, Entreprenuer, and Investor based out of Atlanta, GA
 - 👀 I’m interested in anything Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages (mainly Portuguese at the moment)
-- My 2022 Goals are to learn Solidity, Python, refresh my Leetcode skills, and add 3-5 more projects to my personal portfolio 
+- My 2022 Goals are to join a Web3 company and get more hands on with Golang, Python, Solidity, and Rust. 
 
 <b>A Summary of My Github Page</b> <br />
 <p>It is what it is.<p/>
