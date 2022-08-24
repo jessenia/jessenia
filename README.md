@@ -5,13 +5,13 @@
 - 👋 Hi, I’m @jessenia, a SRE/DevSecOps Engineer, Entreprenuer, and Investor based out of Atlanta, GA
 - 👀 I’m interested in anything Blockchain, Cloud, Security, Systems and Systems Architecture related
 - 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages (mainly Portuguese at the moment)
-  - My 2022 Goals are to join a Web3 company and get more hands on with Golang, Python, Solidity, and Rust. 
-  - [x] Join a Web3 company
-  - [x] Practice Golang
-  - [x] Practice Python
-  - [] Learn Solidity
-  - [] Learn Rust
-  - [] Upgrade my AWS Certified Solutions Architect - Associate certificate to Professional
+- My 2022 Goals are to join a Web3 company and get more hands on with Golang, Python, Solidity, and Rust. 
+    - [x] Join a Web3 company
+    - [x] Practice Golang
+    - [x] Practice Python
+    - [] Learn Solidity
+    - [] Learn Rust
+    - [] Upgrade my AWS Certified Solutions Architect - Associate certificate to Professional
 
 <b>A Summary of My Github Page</b> <br />
 <p>It is what it is.<p/>
