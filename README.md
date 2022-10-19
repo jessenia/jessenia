@@ -4,7 +4,8 @@
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE/DevOps Engineer, Entreprenuer, and Investor based out of Atlanta, GA.
 - 👀 I’m interested in anything Blockchain, Cloud, Security, Systems and Systems Architecture related
-- 🌱 I’m currently learning everything about Blockchain, refining my skills in DevSecOps, and trying to master more spoken languages (mainly Portuguese at the moment)
+- 🌱 I’m currently learning everything about Blockchain, diving deep into the Ethereum ecosystem, refining my skills in DevSecOps triad while trying to stay decent in my programming skills. 
+- Lastly, I really enjoy learning about different cultures and aspire to become a polyglot. I'm at 2.5 languages so I am still far from my goal, yet closer than yesterday!
 
 
 <b>A Summary of My Github Page</b> <br />
