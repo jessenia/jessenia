@@ -2,14 +2,16 @@
 [![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a SRE/DevOps Engineer, Entreprenuer, and Investor based out of Atlanta, GA.
-- 👀 I’m interested in anything Blockchain, Cloud, Security, Systems and Systems Architecture related
-- 🌱 I’m currently learning everything about Blockchain, diving deep into the Ethereum ecosystem, refining my skills in DevSecOps triad while trying to stay decent in my programming skills. 
+- 👋 Hi, I’m @jessenia, a SRE/DevOps Engineer, Entreprenuer, and Investor based out of Canton, GA.
+- 👀 I’m interested in anything Blockchain, Cloud, Security, and Systems related
+- 🌱 I’m currently learning everything about Blockchain, diving deep into the Ethereum ecosystem, refining my skills in DevSecOps triad while trying to stay decent in coding.
 - Lastly, I really enjoy learning about different cultures and aspire to become a polyglot. I'm at 2.5 languages so I am still far from my goal, yet closer than yesterday!
 
 
-<b>A Summary of My Github Page</b> <br />
-<p>It is what it is.<p/>
+<b>Favorite Quotes/b> <br />
+<p>"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
+― Viktor E. Frankl, Man's Search for Meaning
+<p/>
 
 <b>Connect With Me</b> <br />
 
