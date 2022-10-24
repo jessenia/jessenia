@@ -8,7 +8,7 @@
 - Lastly, I really enjoy learning about different cultures and aspire to become a polyglot. I'm at 2.5 languages so I am still far from my goal, yet closer than yesterday!
 
 
-<b>Favorite Quotes/b> <br />
+<b>Favorite Quotes <br />
 <p>"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
 ― Viktor E. Frankl, Man's Search for Meaning
 <p/>
