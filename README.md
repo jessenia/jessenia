@@ -2,10 +2,10 @@
 [![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a SRE and DevSecOps Engineer, Entreprenuer, and Investor based out of Canton, GA
-- 👀 I’m interested in anything Blockchain, Infrastructure, Security, and Systems related
-- 🌱 Currently, I'm learning Golang, Solidity, and Ethereum in general
-- 🗣️ Aspiring to become a polyglot. Currently, I am learning Portugues as my 3rd language
+👋 Hi, I’m @jessenia, a SRE and DevSecOps Engineer, Entreprenuer, and Investor based out of Canton, GA
+👀 I’m interested in anything Blockchain, Infrastructure, Security, and Systems related
+🌱 Currently, I'm learning Golang, Solidity, and Ethereum in general
+🗣️ Aspiring to become a polyglot. Currently, I am learning Portugues as my 3rd language
 
 <b>Favorite Quotes <br />
 <p>"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
