@@ -16,7 +16,7 @@
 
 <a href="https://medium.com/@jessenia.tech"><img align="left" alt="Jessenia's Medium" width="22px" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 
-<a href="https://twitter.com/jessenia_intech"><img align="left" alt="Jessenia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
+<a href="https://twitter.com/_jessekahn"><img align="left" alt="Jessenia | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
 <a href="https://www.linkedin.com/in/jessenia/"><img align="left" alt="Jessenia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
  
