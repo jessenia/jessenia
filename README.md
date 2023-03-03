@@ -4,8 +4,7 @@
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE and DevSecOps Engineer, Entreprenuer, and Investor based out of Canton, GA
 - 👀 I’m interested in anything Blockchain, Infrastructure, Security, or Systems related 
-- 🌱 I'm learning Golang, Solidity, and Ethereum in general
-- 🗣️ Aspiring to become a polyglot. I am learning Portuguese as my 3rd language. I plan to pick up 2 more. 
+
 
 <b>Favorite Quotes <br />
 <p>"Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way."
