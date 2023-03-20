@@ -1,5 +1,4 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
-[![wakatime](https://wakatime.com/badge/github/jessenia/jessenia.svg)](https://wakatime.com/badge/github/jessenia/jessenia)
 
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE and DevSecOps Engineer, Entreprenuer, and Investor based out of Canton, GA
