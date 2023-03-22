@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer, Entreprenuer, and Investor based out of Canton, GA
 - 👀 I’m interested in anything Blockchain, Infrastructure, Cyberecurity, or Systems related
 - :brain: Currently learning:  Typescript and Pulumi
-- :goal_net: My Github goals in 2023 are to keep coding in Python and Golang
+- :goal_net: My Github goals in 2023 are to keep improving my skills in Golang
 
 
 <b>Favorite Quotes <br />
