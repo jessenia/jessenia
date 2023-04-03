@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
 
 <b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer, Entreprenuer, and Investor based out of Canton, GA
+- 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer
 - 👀 I’m interested in anything Blockchain, Infrastructure, Cyberecurity, or Systems related
 - :brain: Currently learning:  Typescript and Pulumi
 - :goal_net: My Github goals in 2023 are to keep improving my skills in Golang
