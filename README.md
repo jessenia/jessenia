@@ -1,5 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=jessenia.jessenia)
-
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer
 - 👀 I’m interested in anything Blockchain, Infrastructure, Cyberecurity, or Systems related
