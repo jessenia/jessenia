@@ -3,9 +3,6 @@
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer
 - 👀 I’m interested in anything Blockchain, Infrastructure, Cyberecurity, or Systems related
-- :brain: Currently learning:  Typescript and Pulumi
-- :goal_net: My Github goals in 2023 are to keep improving my skills in Golang
-
 
 <b>Favorite Quotes <br />
 
