@@ -18,23 +18,4 @@
 
 <a href="https://www.linkedin.com/in/jessenia/"><img align="left" alt="Jessenia's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
  
-<br /> <br />
 
-<b>My Github Stats</b> <br />
-
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" />
-</p>
-
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessenia&layout=compact&show_icons=true&theme=gotham" alt="jessenia" /> 
-</p>
-
-
-<b>Want to support my goals? </b> <br />
-<a href="https://www.buymeacoffee.com/jessenia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-<!---
-jessenia/jessenia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
