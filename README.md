@@ -1,6 +1,6 @@
 <b>About Me</b> <br />
 - 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer
-- 👀 I’m interested in anything Blockchain, Infrastructure, Cyberecurity, or Systems related
+- 👀 I’m interested in anything Blockchain, Infrastructure, Cybersecurity, or Systems related
 
 <b>Favorite Quotes</b> <br />
 
