@@ -1,12 +1,38 @@
-<b>About Me</b> <br />
-- 👋 Hi, I’m @jessenia, a SRE and DevOps Engineer
-- 👀 I’m interested in anything Blockchain, Infrastructure, Cybersecurity, or Systems related
+# 👋 Hi, I'm Jessenia
 
-<b>Favorite Quotes</b> <br />
+🚀 **Technical Product Manager @ the edge of Blockchain × Infra × Cybersecurity**  
+🛠️ SRE / DevOps / Infrastructure expert — building and scaling products with a strong technical foundation.  
+💬 Client-facing and execution-driven, I operate at the crossroads of product, engineering, infrastructure, and sales — aligning teams, simplifying complexity, and shipping what matters.
 
- <i>
-  <q>Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.</q>
-~ Viktor E. Frankl, Man's Search for Meaning<br /><br />
-  
- </i>
+---
 
+### ⚙️ Tools & Technologies
+
+#### 🧰 Languages & Scripting  
+`Python` · `Go` · `Java` · `Bash` · `YAML` · `HCL`
+
+#### 🔧 Infra & Automation  
+`Terraform` · `Pulumi` · `Ansible` · `Docker` · `Kubernetes` · `Systemd`
+
+#### ☁️ Cloud & Observability  
+`AWS` · `GCP` · `DigitalOcean`  
+`Datadog` · `Prometheus` · `Grafana`
+
+#### 🔄 CI/CD & Workflows  
+`GitHub Actions` · `Jenkins` · `Make` · `Pre-commit`
+
+---
+
+### 📈 Stats & Signals
+![Jessenia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jessenia&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+
+---
+
+### 📌 Favorite Quote  
+> *“Everything can be taken from a man but one thing: the last of the human freedoms — to choose one’s attitude in any given set of circumstances, to choose one’s own way.”*  
+> ~ Viktor E. Frankl
+
+---
+
+### 🌐 Connect  
+[LinkedIn](https://www.linkedin.com/in/jessenia) · [Twitter](https://twitter.com/_jessekahn)
