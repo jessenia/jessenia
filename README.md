@@ -4,7 +4,7 @@ I currently work as an **Application Architect** in a **Cybersecurity Research**
 
 ---
 
-### 🚧 Projects in Progress
+### 🚧 Personal Projects in Progress
 
 #### Body Leveraging Evidence Vault
 
